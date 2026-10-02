@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "metel-design-system-muqv0hbk",
+  "title": "Metel Design System",
+  "version": "0.1.0",
+  "description": "--- name: metel-design-system description: Applica il sistema Metel a siti, portali e interfacce per la gestione digitale del ciclo dell’ordine. user-invocable: true ---",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}

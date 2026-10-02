@@ -1,0 +1,19 @@
+{
+  "candidateId": "aba3a0cb-50e9-49f6-8a0c-0d4b57854f03",
+  "projectId": "brand-metel-3ccfbb",
+  "runId": "965b62ef-cf25-4b68-b6da-6e117a7a879c",
+  "conversationId": "5f993f0a-03b5-4bb4-8d3b-e1d3d748c2d8",
+  "provenance": {
+    "summary": "Detected from SKILL.md after a successful run.",
+    "detectedAt": 1790939279811
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "SKILL.md",
+      "label": "SKILL.md",
+      "size": 1846,
+      "copied": true
+    }
+  ]
+}
